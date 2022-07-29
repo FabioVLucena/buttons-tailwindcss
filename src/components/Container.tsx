@@ -7,7 +7,7 @@ import Numero from "./Number";
         <div className="grid grid-cols-4 gap-0">
             
             <div className="flex flex-col border border-black h-[195px] w-[370px]">
-                <Numero numero={1} />
+                <Numero numero={2} />
                 <div className="flex basis-4/5 items-center justify-center">
                     <a href="#" className="relative bg-blue-500 text-white px-5 py-2.5 group">
                        <span className="absolute w-0 group-hover:w-full transition-all ease-out duration-300 h-0.5 bg-white left-0 top-0"/>
